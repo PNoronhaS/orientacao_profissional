@@ -98,3 +98,34 @@ Este projeto foi desenvolvido como trabalho de faculdade para demonstrar:
 - **Disciplina:** Pensamento Computacional e Automação com Python
 - **Professor:** Alexandre Russi Jr.
 - **Instituição:** Fiap  
+
+## 🖼️ Demonstração
+
+### Menu Principal
+![Menu Principal](menu_principal.png)
+
+---
+
+### Estrutura do Projeto
+![Estrutura do Projeto](estrutura_projeto.png)
+
+---
+
+### Criação do Perfil
+![Criação do Perfil](criacao_perfil.png)
+
+---
+
+### Recomendações
+![Recomendações](recomendacoes.png)
+
+---
+
+### Tendências
+![Tendências](tendencias.png)
+
+---
+
+### Relatório
+![Relatório](relatorio.png)
+
