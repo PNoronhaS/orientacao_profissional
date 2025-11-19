@@ -37,17 +37,17 @@ Além disso, gera um **relatório em PDF** com todas as recomendações.
    cd orientacao_profissional
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
-```bash
+
 python -m venv venv
 source venv/Scripts/activate   # Windows
 source venv/bin/activate       # Linux/Mac
 
 3. Instale dependências:
-```bash
+
 pip install fpdf
 
 4. Execute o sistema:
-```bash
+
 python main.py
 
 
