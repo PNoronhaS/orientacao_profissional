@@ -13,7 +13,7 @@ Além disso, gera um **relatório em PDF** com todas as recomendações.
 - Geração de relatório em PDF com perfil, recomendações e tendências.
 
 ## 📂 Estrutura do Projeto
-
+```markdown
 │ 
 ├── main.py # Ponto de entrada do sistema 
 └── app/ 
@@ -23,7 +23,7 @@ Além disso, gera um **relatório em PDF** com todas as recomendações.
 ├── dados.py # Base de carreiras e competências 
 ├── servicos.py # Lógica de recomendação e trilhas 
 └── persistencia.py # Salvar perfil e gerar relatório em PDF
-
+```
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3.10+**
@@ -58,7 +58,7 @@ python main.py
 ## 📑 Exemplo de Uso
 
 **Menu principal:**
-```
+
 ===============================
 SISTEMA DE ORIENTAÇÃO PROFISSIONAL
 ===============================
@@ -72,7 +72,7 @@ SISTEMA DE ORIENTAÇÃO PROFISSIONAL
 4. Sair
 
 5. Gerar relatório em PDF
-
+```
 
 ### Relatório em PDF:
 Após criar seu perfil e gerar recomendações, escolha a opção **5**.  
