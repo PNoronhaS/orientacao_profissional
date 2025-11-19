@@ -104,10 +104,6 @@ Este projeto foi desenvolvido como trabalho de faculdade para demonstrar:
 ### Menu Principal
 ![Menu Principal](menu_principal.png)
 
----
-
-### Estrutura do Projeto
-![Estrutura do Projeto](estrutura_projeto.png)
 
 ---
 
