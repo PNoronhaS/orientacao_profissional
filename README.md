@@ -54,8 +54,8 @@ python main.py
 ---
 
 
-```markdown
 ## 📑 Exemplo de Uso
+```markdown
 
 **Menu principal:**
 
