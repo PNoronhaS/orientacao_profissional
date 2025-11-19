@@ -38,6 +38,7 @@ Além disso, gera um **relatório em PDF** com todas as recomendações.
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
 
+```bash
 python -m venv venv
 source venv/Scripts/activate   # Windows
 source venv/bin/activate       # Linux/Mac
