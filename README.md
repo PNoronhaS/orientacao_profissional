@@ -55,9 +55,9 @@ python main.py
 
 
 ## 📑 Exemplo de Uso
-```markdown
 
 **Menu principal:**
+```markdown
 
 ===============================
 SISTEMA DE ORIENTAÇÃO PROFISSIONAL
