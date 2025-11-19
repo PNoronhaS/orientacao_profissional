@@ -122,6 +122,6 @@ Este projeto foi desenvolvido como trabalho de faculdade para demonstrar:
 
 ---
 
-### Relatório
-![Relatório](relatorio.png)
+### Relatório em PDF
+![Relatório em PDF](relatorio.png)
 
