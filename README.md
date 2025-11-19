@@ -43,13 +43,13 @@ source venv/Scripts/activate   # Windows
 source venv/bin/activate       # Linux/Mac
 ```
 3. Instale dependências:
-
+```bash
 pip install fpdf
-
+```
 4. Execute o sistema:
-
+```bash
 python main.py
-
+```
 
 ---
 
