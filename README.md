@@ -35,14 +35,13 @@ Além disso, gera um **relatório em PDF** com todas as recomendações.
    ```bash
    git clone https://github.com/seuusuario/orientacao_profissional.git
    cd orientacao_profissional
-
+```
 2. Crie um ambiente virtual (opcional, mas recomendado):
-
 ```bash
 python -m venv venv
 source venv/Scripts/activate   # Windows
 source venv/bin/activate       # Linux/Mac
-
+```
 3. Instale dependências:
 
 pip install fpdf
